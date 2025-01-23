@@ -35,8 +35,3 @@ O projeto **Libft** é o primeiro passo no mundo da programação da 42. Ele des
 
 ---
 
-## 🚀 Como Usar
-
-1. Clone este repositório:  
-   ```bash
-   git clone https://github.com/seu-usuario/libft.git
