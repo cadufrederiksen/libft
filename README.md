@@ -1,37 +1,36 @@
-# 🛠️ Libft - Construindo as Bases da Programação em C
+# 🛠️ Libft - Building the Foundations of C Programming
 
 ![Libft](https://img.shields.io/badge/Language-C-blue) ![Makefile](https://img.shields.io/badge/Tool-Makefile-yellow) ![Norminette](https://img.shields.io/badge/Style-Norminette-green)
 
-O projeto **Libft** é o primeiro passo no mundo da programação da 42. Ele desafia os estudantes a recriar funções padrão da linguagem C, promovendo uma compreensão aprofundada de conceitos fundamentais e boas práticas.
+The **Libft** project is the first step into the world of 42 programming. It challenges students to recreate standard C functions from scratch, promoting a deep understanding of fundamental concepts and best practices.
 
 ---
 
-## 📋 Objetivo do Projeto
+## 📋 Project Objective
 
-🔹 **Entender profundamente** como funcionam as funções padrão de C, recriando-as do zero.  
-🔹 **Fortalecer** conceitos como manipulação de memória, gerenciamento de strings, e estruturas dinâmicas.  
-🔹 **Promover boas práticas** como uso de controle de versão (GIT) e padronização de código com Norminette.
-
----
-
-## 📚 Conceitos Principais
-
-- 🧠 **Manipulação de Memória**: alocação, liberação e gerenciamento eficiente.
-- 🧵 **Manejo de Strings**: análise, modificação e processamento de cadeias de caracteres.
-- 🔄 **Conversão de Tipos**: transformações entre diferentes formatos de dados.
-- 🔤 **Operações com Caracteres**: manipulações específicas de caracteres.
-- 🔗 **Listas Encadeadas**: criação e uso de estruturas dinâmicas.
+🔹 **Deeply understand** how standard C functions work by recreating them from scratch.  
+🔹 **Strengthen** concepts such as memory manipulation, string management, and dynamic data structures.  
+🔹 **Promote best practices** like using version control (GIT) and code standardization with Norminette.
 
 ---
 
-## 🛠️ Ferramentas e Padrões
+## 📚 Main Concepts
 
-| Ferramenta/Padrão      | Descrição                                               |
-|-------------------------|-------------------------------------------------------|
-| **GIT**                | Controle de versão para organizar e acompanhar o progresso do código. |
-| **Makefile**           | Sistema de automação para compilar o projeto facilmente. |
-| **Norminette**         | Ferramenta para verificar conformidade com os padrões de estilo da 42. |
-| **Biblioteca Padrão C**| Implementação das funções essenciais para projetos futuros. |
+- 🧠 **Memory Manipulation**: allocation, deallocation, and efficient management.
+- 🧵 **String Handling**: analysis, modification, and processing of character arrays.
+- 🔄 **Type Conversion**: transformations between different data formats.
+- 🔤 **Character Operations**: specific manipulations of characters.
+- 🔗 **Linked Lists**: creation and use of dynamic data structures.
 
 ---
 
+## 🛠️ Tools and Standards
+
+| Tool/Standard           | Description                                                        |
+|-------------------------|--------------------------------------------------------------------|
+| **GIT**                 | Version control to organize and track code progress.               |
+| **Makefile**            | Automation system to easily compile the project.                   |
+| **Norminette**          | Tool to check compliance with 42 coding style standards.           |
+| **C Standard Library**  | Implementation of essential functions for future projects.         |
+
+---
